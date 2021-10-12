@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-22EHAIG",
+    "children" : [ {
+      "name" : "13944-MainThread",
+      "children" : [ {
+        "name" : "test_with_testcase_link",
+        "uid" : "b0230f6441cffe67",
+        "parentUid" : "589790daccd3760ea0d2f125b35625e6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634033120499,
+          "stop" : 1634033120499,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "589790daccd3760ea0d2f125b35625e6"
+    }, {
+      "name" : "5412-MainThread",
+      "children" : [ {
+        "name" : "test_with_testcase_link",
+        "uid" : "c1e6a03f28faf7ab",
+        "parentUid" : "1e523f1162edabad832ebf74879ea366",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634033347479,
+          "stop" : 1634033347480,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1e523f1162edabad832ebf74879ea366"
+    } ],
+    "uid" : "293a341899d7ffcd944edef3c96aa720"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "uid" : "b0230f6441cffe67",
+  "name" : "test_with_testcase_link",
+  "fullName" : "test_case#test_with_testcase_link",
+  "historyId" : "aafb7e93587c7bee6f94fb58ce84f4ac",
+  "time" : {
+    "start" : 1634033120499,
+    "stop" : 1634033120499,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-22EHAIG"
+  }, {
+    "name" : "thread",
+    "value" : "13944-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试链接",
+    "url" : "www.baidu.com",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0230f6441cffe67.json",
+  "parameterValues" : [ ]
+}

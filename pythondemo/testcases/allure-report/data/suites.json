@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_with_testcase_link",
+      "uid" : "c1e6a03f28faf7ab",
+      "parentUid" : "86abcc46617c603d802c3e378b13740e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634033347479,
+        "stop" : 1634033347480,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}
